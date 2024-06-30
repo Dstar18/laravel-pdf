@@ -124,11 +124,11 @@
             </tr>
             <tr>
                 <td class="column-name">Jam mulai peminjaman</td>
-                <td class="column-value">: {{ $jam_mulai_peminjaman }}</td>
+                <td class="column-value">: {{ $jam_mulai_peminjaman }} WIB</td>
             </tr>
             <tr>
                 <td class="column-name">Jam selesai peminjaman</td>
-                <td class="column-value">: {{ $jam_selesai_peminjaman }}</td>
+                <td class="column-value">: {{ $jam_selesai_peminjaman }} WIB</td>
             </tr>
             <tr>
                 <td class="column-name">Keterangan peminjaman</td>
